@@ -103,7 +103,7 @@
     <h1>tabu – Nachricht vorbereiten</h1>
 
     <form method="POST" action="upload.php" enctype="multipart/form-data">
-        <label>Dateien auswählen:</label>
+        <label>Bis zu 10 Dateien auswählen:</label>
         <div id="file-inputs"></div>
         <button type="button" onclick="addFileInput()">➕ Weitere Datei(en) hinzufügen</button>
 
